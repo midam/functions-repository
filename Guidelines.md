@@ -2,13 +2,10 @@
   -------------------- ------------------------------------
   Sub-Project Title:   Medical Informatics Platform (SP8)
   Task no:             8.4.2
-  Sub-task no:
-
+ 
   Document Title:    **User Guidelines : Algorithm Factory &gt; Pushing new algorithms into Algorithm pipeline**
   ------------------ --------------------------------------------------------------------------------------------------------
-  Filename & Path:   Z:\\Miha\\CHUV\\UserGuidelines\\HBP\_SP8\_20160106\_CHUV\_AlgorithmFactory\_UserGuidelines001\_v1.docx
-
-  Authors:   *Ludovic Claude, CHUV*
+   Authors:   *Ludovic Claude, CHUV*
   ---------- ------------------------
 
   Summary:   Steps of how new R algorithms may be tested and pushed into Algorithm Factory pipeline, for deployment into production.
